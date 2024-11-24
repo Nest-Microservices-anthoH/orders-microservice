@@ -1,4 +1,4 @@
-# Orders MicroSevice
+# Orders MicroService
 
 ```
  docker compose up -d
