@@ -16,7 +16,8 @@ steps:
 
 availableSecrets:
   secretManager:
-  - versionName: projects/526717378952/secrets/ORDERS_DATABASE_URL/versions/1
+  - versionName: projects/526717378952/secrets/orders_database_url/versions/1
     env: 'DATABASE_URL'
+    
 options:
   logging: CLOUD_LOGGING_ONLY
